@@ -1,6 +1,6 @@
 <img width="1891" height="932" alt="image" src="https://github.com/user-attachments/assets/0d8e490f-78b3-4564-a352-2124af5d22a2" />
 
-# System Tracker -- an idea for maintaining consistency
+# Behavior Tracker
 
 During my first two semesters at Princeton, I kept running into a problem. Due to the demanding nature of the STEM coursework, I found that I was unable to keep many of the healthy habits that I cared so much about keeping. When I tried to maintain healthy habits, I found that I was *overly ambitious* -- there were just too many activities that I would end up losing motivation for.
 
