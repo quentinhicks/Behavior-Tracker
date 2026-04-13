@@ -6,8 +6,6 @@ During my first two semesters at Princeton, I kept running into a problem. Due t
 
 I developed this tool during the first week before coming back to Princeton to solve this problem. The idea is simple: the local implementation offered me an interface to be able to input habits (split between daily habits and additional weekly habits) and track my adherence to the habits that I set for myself. Underneath was an implementation which would evaluate my performance and assess whether I should increase my habits, decrease, or maintain at the current level.
 
-When I created this, I was not interested in being a programmer, but now since I'm applying for software engineering roles I'm uploading it for proof of basic experience and skill.
-
 ## Implementation features
 
 To complete this project, I played around with the following ideas:
